@@ -19,7 +19,7 @@ The **David Chu's China Bistro** website presents a virtual representation of th
 ## File Structure
 
 The project directory is organized as follows:
-
+```
 /project-root
 │
 ├── index.html # Main HTML file
@@ -33,7 +33,7 @@ The project directory is organized as follows:
 └── images/
 ├── STAR.jpg # Kosher certification badge
 └── [other images] # Additional images
-
+```
 
 ## How to Run
 
