@@ -22,7 +22,7 @@ The project directory is organized as follows:
 
 /project-root
 │
-├── index.html
+├── index.html # Main HTML file
 ├── css/
 │ ├── bootstrap.min.css # Bootstrap CSS framework
 │ └── sty.css # Custom styles
@@ -34,21 +34,13 @@ The project directory is organized as follows:
 ├── STAR.jpg # Kosher certification badge
 └── [other images] # Additional images
 
-markdown
-Copy code
 
 ## How to Run
 
 1. **Clone the Repository:**
    ```bash
-   git clone [your-repository-url]
+   git clone [[your-repository-url]](https://github.com/Anant1273/David-Chu-China-bistro-Website)
 Navigate to the Project Directory:
-
-bash
-Copy code
-cd [project-directory]
-Open the HTML File:
-Open index.html in your preferred web browser.
 
 ## Detailed Explanation
 ### HTML
