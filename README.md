@@ -22,7 +22,7 @@ The project directory is organized as follows:
 ```
 /project-root
 │
-├── index.html # Main HTML file
+├── website.html # Main HTML file
 ├── css/
 │ ├── bootstrap.min.css # Bootstrap CSS framework
 │ └── sty.css # Custom styles
